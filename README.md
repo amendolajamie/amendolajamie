@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amendolajamie
 - 👀 I’m interested in Astronomy
-- 🌱 I’m currently learning Indi
+- 🌱 I’m currently contributing to Indi
 - 💞️ I’m looking to collaborate on Indi
 - 📫 How to reach me jamie.amendolagine@gmail.com
 
